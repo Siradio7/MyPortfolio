@@ -9,11 +9,9 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Mamadou Siradiou Diallo </span>
-            from <span className="purple"> Conakry, Guinea.</span>
+            from <span className="purple"> Nice, France.</span>
             <br />
-            I am currently employed as a web developer at Numerikap.
-            <br />
-            I am a student in Computer Engineering at University Nongo of Conakry.
+            I am currently a student in computer science at the Côte d'Azur University.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -26,7 +24,7 @@ function AboutCard() {
               <ImPointRight /> Playing Football
             </li>
             <li className="about-activity">
-              <ImPointRight /> Solve algorithm problems
+              <ImPointRight /> Solve algorithm problems on CodinGame
             </li>
           </ul>
 
