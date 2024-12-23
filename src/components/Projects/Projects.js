@@ -26,7 +26,7 @@ function Projects() {
                 imgPath={bitsOfCode}
                 isBlog={false}
                 title="WeatherScope"
-                description="A simple and intuitive weather web application that allows users to check the current weather conditions in a city or at their current location using geolocation. Built with HTML, CSS and JS. Powered by the OpenWeatherMap API to provide real-time, detailed weather information."
+                description="A simple and intuitive weather web application that allows users to check the current weather conditions in a city or at their current location using geolocation. Built with React and powered by the OpenWeatherMap API to provide real-time, detailed weather information."
                 demoLink="https://weatherscope.vercel.app/"
                 ghLink="https://github.com/Siradio7/read_meteo"
             />
