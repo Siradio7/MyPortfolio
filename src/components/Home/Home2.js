@@ -91,6 +91,9 @@ function Home2() {
                 </a>
               </li>
             </ul>
+            <div className={"mt-2"}>
+              <a className={"purple"} href="mailto:mamadousiradioudiallo4@gmail.com">mamadousiradioudiallo4@gmail.com</a>
+            </div>
           </Col>
         </Row>
       </Container>
